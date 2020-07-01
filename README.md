@@ -1,3 +1,7 @@
+## Very interessing informations and resources about Vue.js 
+***
+ I share with you all this things that i learned from. I hope You'll enjoy it :)
+<hr/>
 <p align="center">
   <br>
   <img width="400" src="./assets/logo.svg" alt="logo of vue-awesome repository">
@@ -3233,3 +3237,5 @@ _Scaffold parts of the app_
   <br/>
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+<hr/>
+  Thanks for reading!
